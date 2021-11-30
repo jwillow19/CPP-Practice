@@ -6,7 +6,7 @@ using namespace std;
 /* Average of Three project
 
     + prompt user for 3 doubles (num1. num2, num3)
-    + calcualte the mean
+    + calcualate the mean
     + print it out
 */
 

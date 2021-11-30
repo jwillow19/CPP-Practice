@@ -37,6 +37,9 @@ int main() {
     // 1. boolalpha (object in iostream) -- prints out "textual" boolean value (i.e.: prints true/false instead of 0/1); only need to pass to cout once
     bool isRaining = false;
     cout << isRaining << endl;
+    
+    cout << boolalpha
+         << isRaining << endl;
 
     return 0;
 }

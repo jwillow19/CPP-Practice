@@ -3,6 +3,10 @@
 #include <string>
 using namespace std;
 
+/* [Practice] Parallel Vectors
+    + two parallel vectors storing different dtype for the same person
+*/
+
 int main(){
     vector<string> nameVec{};
     vector<int> ageVec{};
