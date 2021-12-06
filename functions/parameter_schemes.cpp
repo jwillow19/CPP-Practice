@@ -3,8 +3,10 @@ using namespace std;
 
 /*  C++: Parameter Passing Schemes
         
-    pass-by-value           -- makes a copy of the input variable into the function and use it as argument. It is not the same variable as the input variable.
-    pass-by-reference       -- passing the original variable and use it as argument. Reference to variable's memory.
+    pass-by-value           -- makes a copy of the input variable into the function and use it as argument. 
+                                It is not the same variable as the input variable.
+    pass-by-reference       -- passing the original variable and use it as argument. Reference to variable's 
+                                memory.
 
 */
 
